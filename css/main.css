@@ -1,0 +1,22 @@
+img.lock {height: ;width: px;}
+
+.ssk {border-bottom: 1px solid black;}
+
+.marginr {margin-right: 5px;}
+.table {
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+}
+.clra{border: 1px solid #a2a9b1;background-color: #F8F9FA;}
+.clrb{background-color:rgb(212, 212, 240); padding: 2px;margin:0px 2px 4px 2px;}
+.imga{width:94%; margin-bottom: 5px;}
+.fonta{font-family: 'Linux Libertine','Georgia','Times',serif;}
+.align-left{text-align: left;}
+ul li{list-style-type:none;}
